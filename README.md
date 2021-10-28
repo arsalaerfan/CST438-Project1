@@ -16,7 +16,7 @@ Development environment for integration :- None
 
 Contributors :- 
 Chaitanya Parwatkar (GitHUb name- parw8649, Link - https://github.com/parw8649),
-Ramiro Soto (GitHUb name- thekokoloko, Link - https://github.com/thekokoloko),
+Ramiro Soto (GitHUb name- thekokoloko, Link - https://github.com/ramirosot0),
 Prince Rios (GitHUb name- princeriostheprodigy, Link - https://github.com/princeriostheprodigy),
 Erfanullah Arsuala (GitHUb name- arsalaerfan, Link - https://github.com/arsalaerfan)
 
